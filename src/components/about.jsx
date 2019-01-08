@@ -40,17 +40,17 @@ I have experience in:
 My mission is to provide professional and high quality services that meet expectations.
 
             <div className = "linkclass">
-              <a href="http://github.com/goldtime0820">
-                <i className="fa fa-github" aria-hidden="true">http://github.com/goldtime0820</i>
+              <a href="https://github.com/CMBStudioProgram">
+                <i className="fa fa-github" aria-hidden="true">https://github.com/CMBStudioProgram</i>
               </a>
-              <a href="http://linkedin.com/in/goldtime0820">
-                <i className="fa fa-linkedin-square" aria-hidden="true">http://linkedin.com/in/goldtime0820</i>
+              <a href="http://linkedin.com/in/CMBStudio">
+                <i className="fa fa-linkedin-square" aria-hidden="true">http://linkedin.com/in/CMBStudio</i>
               </a>
-              <a href="http://facebook.com/goldtime0820">
-                <i className="fa fa-facebook-square" aria-hidden="true">http://facebook.com/goldtime0820</i>
+              <a href="http://facebook.com/CMBStudio">
+                <i className="fa fa-facebook-square" aria-hidden="true">http://facebook.com/CMBStudio</i>
               </a>
-              <a href="mailto:goldtime0820@gmail.com">
-                <i className="fa fa-envelope" aria-hidden="true">goldtime0820@gmail.com</i>
+              <a href="mailto:CMBStudio@gmail.com">
+                <i className="fa fa-envelope" aria-hidden="true">CMBStudio@gmail.com</i>
               </a>
             </div>
           </div>
