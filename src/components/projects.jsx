@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
-import Project from './project';
-import {Link} from 'react-router-dom';
 require('react-router-dom');
 export default class Projects extends React.Component {
 
