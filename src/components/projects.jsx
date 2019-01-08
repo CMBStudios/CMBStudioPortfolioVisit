@@ -28,7 +28,7 @@ export default class Projects extends React.Component {
   fetchIpData() {
     this.setState({ ipdatas: null });
 
-    fetch("https://goldtime0820.herokuapp.com/getdata/")
+    fetch("https://cmbstudioportfolio.herokuapp.com/getdata/")
       .then(res => res.json())
       .then(
         (result) => {
